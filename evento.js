@@ -16,14 +16,8 @@ console.log("----------")
 if(idade< 18) {console.log(" ")}
 else {
     let participantesEvento = 100
-console.log("Verificando número de participantes no evento.")
-if(participantesEvento >= 100) {console.log("Limite excedido.")}
-else {console.log("Cadastro realizado com sucesso")}
-console.log("----------")
+    console.log("Verificando número de participantes no evento.")
+    if(participantesEvento >= 100) {console.log("Limite excedido.")}
+    else {console.log("Cadastro realizado com sucesso")}
+    console.log("----------")
 }
-
-//let participantesEvento = 89
-//console.log("Verificando número de participantes no evento.")
-//if(participantesEvento >= 100) {console.log("Limite excedido.")}
-//else {console.log("Cadastro realizado com sucesso")}
-//console.log("----------")
